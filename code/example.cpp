@@ -30,3 +30,5 @@ int main(void)
 }
 
 /** Adding a test message just as a diff **/
+
+/** Adding a second test message **/
